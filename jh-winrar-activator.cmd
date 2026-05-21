@@ -124,7 +124,7 @@ exit /b
 echo ^- Registering your copy of WinRAR.
 (
   echo RAR registration data
-  echo Jamiul Hasan
+  echo Hououin Kyouma
   echo El Psy Congroo
   echo UID=c881245b7b1a78985cb0
   echo 64122122505cb05c44e75618ab5ea84c86e876e620d42d566d4453
