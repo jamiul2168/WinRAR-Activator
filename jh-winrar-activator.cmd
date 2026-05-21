@@ -125,7 +125,7 @@ echo ^- Registering your copy of WinRAR.
 (
   echo RAR registration data
   echo Jamiul Hasan
-  echo WinRar 
+  echo El Psy Congroo
   echo UID=c881245b7b1a78985cb0
   echo 64122122505cb05c44e75618ab5ea84c86e876e620d42d566d4453
   echo 18f59893063b0c337398603ef609acfb0eac3505bc19e61df2b7f5
